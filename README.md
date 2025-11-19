@@ -47,6 +47,7 @@ pip install -r requirements.txt
 
 3. Download the dataset:
    - Download `spam.csv` from [Kaggle SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+   - or from [Google Drive](https://drive.google.com/file/d/15l5iqICi8ty7PowKi4Wilh40BQGpVFot/view?usp=sharing)
    - Place it in the project root directory
 
 ### Usage
